@@ -1,0 +1,6 @@
+streamlit
+transformers
+gtts
+torch
+pydub
+ffmpeg
